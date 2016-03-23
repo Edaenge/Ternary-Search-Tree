@@ -1,6 +1,0 @@
-shells
-shell
-sea
-sort
-snore
-shore
