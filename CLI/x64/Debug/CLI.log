@@ -1,9 +1,9 @@
-﻿Build started 2016-03-20 23:52:27.
-     1>Project "X:\Documents\Visual Studio 2012\Projects\Ternary Search\CLI\CLI.vcxproj" on node 2 (Build target(s)).
+﻿Build started 2016-03-23 16:21:27.
+     1>Project "X:\Documents\GitHub\Ternary-Search-Tree\CLI\CLI.vcxproj" on node 2 (Build target(s)).
      1>Link:
-         CLI.vcxproj -> X:\Documents\Visual Studio 2012\Projects\Ternary Search\\bin\Debug\x64\CLI.dll
-     1>Done Building Project "X:\Documents\Visual Studio 2012\Projects\Ternary Search\CLI\CLI.vcxproj" (Build target(s)).
+         CLI.vcxproj -> X:\Documents\GitHub\Ternary-Search-Tree\\bin\Debug\x64\CLI.dll
+     1>Done Building Project "X:\Documents\GitHub\Ternary-Search-Tree\CLI\CLI.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.04
+Time Elapsed 00:00:00.05

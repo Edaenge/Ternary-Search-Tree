@@ -135,12 +135,12 @@
     <ClInclude Include="source\C++CLIWrapper.h" />
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\C++\C++.vcxproj">
       <Project>{2152c45e-f0c4-4ce8-8dbf-99313170c7bb}</Project>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Reference Include="WindowsBase" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

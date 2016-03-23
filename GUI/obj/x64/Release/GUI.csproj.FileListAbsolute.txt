@@ -26,3 +26,12 @@ X:\Documents\Visual Studio 2012\Projects\Ternary Search\GUI\obj\x64\Release\GUI.
 X:\Documents\Visual Studio 2012\Projects\Ternary Search\GUI\obj\x64\Release\GUI.GUI.resources
 X:\Documents\Visual Studio 2012\Projects\Ternary Search\GUI\obj\x64\Release\GUI.Properties.Resources.resources
 X:\Documents\Visual Studio 2012\Projects\Ternary Search\GUI\obj\x64\Release\GUI.csproj.GenerateResource.Cache
+X:\Documents\GitHub\Ternary-Search-Tree\bin\Release\x64\GUI.exe.config
+X:\Documents\GitHub\Ternary-Search-Tree\bin\Release\x64\GUI.exe
+X:\Documents\GitHub\Ternary-Search-Tree\bin\Release\x64\GUI.pdb
+X:\Documents\GitHub\Ternary-Search-Tree\GUI\obj\x64\Release\GUI.csprojResolveAssemblyReference.cache
+X:\Documents\GitHub\Ternary-Search-Tree\GUI\obj\x64\Release\GUI.GUI.resources
+X:\Documents\GitHub\Ternary-Search-Tree\GUI\obj\x64\Release\GUI.Properties.Resources.resources
+X:\Documents\GitHub\Ternary-Search-Tree\GUI\obj\x64\Release\GUI.csproj.GenerateResource.Cache
+X:\Documents\GitHub\Ternary-Search-Tree\GUI\obj\x64\Release\GUI.exe
+X:\Documents\GitHub\Ternary-Search-Tree\GUI\obj\x64\Release\GUI.pdb

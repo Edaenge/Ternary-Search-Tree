@@ -28,3 +28,12 @@ X:\Documents\Visual Studio 2012\Projects\Ternary Search\GUI\obj\x64\Debug\GUI.Pr
 X:\Documents\Visual Studio 2012\Projects\Ternary Search\GUI\obj\x64\Debug\GUI.csproj.GenerateResource.Cache
 X:\Documents\Visual Studio 2012\Projects\Ternary Search\GUI\obj\x64\Debug\GUI.exe
 X:\Documents\Visual Studio 2012\Projects\Ternary Search\GUI\obj\x64\Debug\GUI.pdb
+X:\Documents\GitHub\Ternary-Search-Tree\bin\Debug\x64\GUI.exe.config
+X:\Documents\GitHub\Ternary-Search-Tree\bin\Debug\x64\GUI.exe
+X:\Documents\GitHub\Ternary-Search-Tree\bin\Debug\x64\GUI.pdb
+X:\Documents\GitHub\Ternary-Search-Tree\GUI\obj\x64\Debug\GUI.csprojResolveAssemblyReference.cache
+X:\Documents\GitHub\Ternary-Search-Tree\GUI\obj\x64\Debug\GUI.GUI.resources
+X:\Documents\GitHub\Ternary-Search-Tree\GUI\obj\x64\Debug\GUI.Properties.Resources.resources
+X:\Documents\GitHub\Ternary-Search-Tree\GUI\obj\x64\Debug\GUI.csproj.GenerateResource.Cache
+X:\Documents\GitHub\Ternary-Search-Tree\GUI\obj\x64\Debug\GUI.exe
+X:\Documents\GitHub\Ternary-Search-Tree\GUI\obj\x64\Debug\GUI.pdb
