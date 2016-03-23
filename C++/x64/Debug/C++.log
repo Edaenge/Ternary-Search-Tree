@@ -1,0 +1,17 @@
+﻿Build started 2016-03-23 16:17:07.
+     1>Project "X:\Documents\Visual Studio 2012\Projects\Ternary Search\C++\C++.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         X:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt source\Engine\DotCoder.cpp
+         DotCoder.cpp
+       Link:
+         X:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"X:\Documents\Visual Studio 2012\Projects\Ternary Search\\bin\Debug\x64\C++.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:\Documents\Visual Studio 2012\Projects\Ternary Search\\bin\Debug\x64\C++.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:\Documents\Visual Studio 2012\Projects\Ternary Search\\bin\Debug\x64\C++.lib" /MACHINE:X64 /DLL x64\Debug\DotCoder.obj
+         x64\Debug\Engine.obj
+         x64\Debug\KeyLoader.obj
+         x64\Debug\TST.obj
+         x64\Debug\TSTWrapper.obj
+         C++.vcxproj -> X:\Documents\Visual Studio 2012\Projects\Ternary Search\\bin\Debug\x64\C++.dll
+     1>Done Building Project "X:\Documents\Visual Studio 2012\Projects\Ternary Search\C++\C++.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.82
