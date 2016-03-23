@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# Data
+dot.txt
+orter.txt
+*.png
+
